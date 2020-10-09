@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/yunchen/Projects/substrate_test/accContract/roleContract/target/rls/thumbv7em-none-eabihf/debug/build/typenum-b6fe8c6286470e72/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/yunchen/Projects/substrate_test/accContract/roleContract/target/rls/thumbv7em-none-eabihf/debug/build/typenum-b6fe8c6286470e72/out/op.rs
