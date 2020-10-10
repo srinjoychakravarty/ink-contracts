@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# pushd accContract/roleContract && cargo +nightly contract build && popd &&
-pushd roleContract && cargo +nightly contract build && popd &&
-cargo +nightly contract build
-cargo contract generate-metadata
+pushd roleContract && cargo +nightly-2020-07-12 contract build && popd &&
+cargo +nightly-2020-07-12 contract build
+cargo +nightly-2020-07-12 contract generate-metadata
+
